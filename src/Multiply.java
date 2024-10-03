@@ -1,4 +1,4 @@
-public class MultiplyMethod {
+public class Multiply {
 
     public static double multiply(double a, double b) {
 

@@ -20,4 +20,4 @@ This assignment uses a simple calculator project to explore key GitHub concepts 
    - 1d. Add the content of the **division** method, so it returns the divided value.  
 
 3. **Now create a class (and a method), that uses the previous methods to return the area of a circle.  
-The parameter should be a boolean that reflects the radius.**
+The parameter should be a double that reflects the radius.**

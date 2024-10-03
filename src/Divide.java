@@ -1,4 +1,4 @@
-public class DivideMethod {
+public class Divide {
 
     public static double divide(double a, double b) {
 

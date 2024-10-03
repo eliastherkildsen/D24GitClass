@@ -1,4 +1,4 @@
-public class MinusMethod {
+public class Minus {
 
     public static double minus(double a, double b) {
 
